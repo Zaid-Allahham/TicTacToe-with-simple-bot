@@ -158,7 +158,6 @@ public class tictactoegame {
 
                             printboard(board);
 
-                            System.out.println(O_board);
                         } while (check_move != 2);
                     }
                 }
